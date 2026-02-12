@@ -128,7 +128,7 @@ export default function Home() {
 
       <div className="thirdFooter grid grid-cols-[1fr_1fr_1fr_1fr] bg-gray-200 p-10 gap-2">
 
-        <div className="border p-2">
+        <div className=" p-2">
           <h1 className="mb-3 text-gray-800">Experience Hassle-Free Online Shopping in Nepal with Bazar</h1>
           <p className="text-xs">E-commerce has evolved over the past few years and since it&apos;s easier and more convenient, it is evident that customers are actually switching to the trend of online shopping. Bazar, the Nepali shopping store, brings a whole new concept by showcasing a number of famous brands under one roof. Not only does it fulfill clothing necessities of both men and women but you can also shop for all kinds of appliances like air conditioners, heaters, refrigerators, LED TVs and a lot more. Simply select your favorite brand like Samsung, Apple, HP, Huawei, Dell, Canon, Nikon, etc and get yourself the best electronic items.
           </p>
@@ -140,7 +140,7 @@ export default function Home() {
 
 
 
-        <div className="border p-2 ">
+        <div className=" p-2 ">
           <div className="text-xs">new products are added every day to cater to all your needs. Visit Bazar.com.np to experience shopping in Nepal as never before. Don't forget to Download Bazar App and get exclusive discounts.
             <div className="mt-1
             ">            Bazar is a global online marketplace with ecommerce stores in <span className="text-blue-700">Pakistan</span>, <span className="text-blue-700">Bangladesh</span>, <span className="text-blue-700">Nepal</span>, <span className="text-blue-700">Sri Lanka</span> and <span className="text-blue-700">Myanmar</span>.
@@ -166,7 +166,7 @@ export default function Home() {
 
 
 
-        <div className="border p-2">
+        <div className=" p-2">
           <h1 className="text-gray-800">Top Categories & Brands</h1>
           <div className="mb-2 ">
             <h6 className=" text-gray-700 text-xs" >NEW MOBILE PHONES IN NEPAL
@@ -205,7 +205,7 @@ export default function Home() {
 
 
 
-        <div className="  border p-2">
+        <div className="   p-2">
           <div className="mb-2">
             <h6 className="text-gray-700 text-xs">COMPUTER COMPONENTS
             </h6>
