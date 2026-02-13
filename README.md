@@ -22,8 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/c58a5b2f-5aa0-49c8-9634-b6c7394e9187" />
 <img width="1919" height="706" alt="image" src="https://github.com/user-attachments/assets/976bbcb0-7029-4e20-b38d-e03546d54f3a" />
 <img width="1915" height="1009" alt="image" src="https://github.com/user-attachments/assets/f34fcdbc-8c9a-46e0-b575-4492c017bfbe" />
-<img width="1917" height="1136" alt="image" src="https://github.com/user-attachments/assets/403d6bff-8d55-4e15-9003-915be5c819bf" />
-<img width="1919" height="1145" alt="image" src="https://github.com/user-attachments/assets/3ec878c9-de23-45ff-a564-f678bab2e638" />
+
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
